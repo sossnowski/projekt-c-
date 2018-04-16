@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1511632778 source:c:\users\krzysiek\desktop\cpp\projekt_2\listapolaczen.cpp
+	<iostream>
+	<string>
+	"listapolaczen.h"
+	<fstream>
+
+1511708244 source:c:\users\krzysiek\desktop\cpp\projekt_2\listapracownikow.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"listapracownikow.h"
+
+1511710824 source:c:\users\krzysiek\desktop\cpp\projekt_2\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	"polaczenie.h"
+	"pracownik.h"
+	"listapolaczen.h"
+	"listapracownikow.h"
+
+1511629585 c:\users\krzysiek\desktop\cpp\projekt_2\polaczenie.h
+	<iostream>
+
+1511630499 source:c:\users\krzysiek\desktop\cpp\projekt_2\pracownik.cpp
+	<iostream>
+	<sstream>
+	"pracownik.h"
+
+1511708402 source:c:\users\krzysiek\desktop\cpp\projekt_2\polaczenie.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"polaczenie.h"
+	"pracownik.h"
+
+1511629562 c:\users\krzysiek\desktop\cpp\projekt_2\pracownik.h
+	<iostream>
+
+1511532746 c:\users\krzysiek\desktop\cpp\projekt_2\listapolaczen.h
+	<iostream>
+	"polaczenie.h"
+
+1511631494 c:\users\krzysiek\desktop\cpp\projekt_2\listapracownikow.h
+	<iostream>
+	"pracownik.h"
+
